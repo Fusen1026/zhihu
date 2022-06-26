@@ -1,7 +1,7 @@
 <template>
   <validate-form @submit-form="submitForm">
       账户 111@test.com
-      密码 test.com
+      密码 111111
       <div class="mb-3">
         <label class="form-label">邮箱地址</label>
         <valid-input 
